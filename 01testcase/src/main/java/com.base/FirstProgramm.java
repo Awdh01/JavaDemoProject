@@ -63,6 +63,7 @@ public class FirstProgramm {
 		
 		System.out.println("Mrinal");
 		System.out.println("Awdhesh");
+		System.out.println("hello");
 		
 		String s1="Rain@has&started*herenow ";
 //		System.out.println(s1.replaceAll("a", ""));
